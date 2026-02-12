@@ -17,6 +17,7 @@ public class Interaction : MonoBehaviour
         if (Input.GetButtonDown("Fire1")) 
         {
             _target.Active();
+
         }
     }
 
